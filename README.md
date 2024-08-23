@@ -1,16 +1,25 @@
-## Hi there 👋
+Hello, my name is Jhayne Henemam, nice to meet you!
 
-<!--
-**JhayneM/JhayneM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student, trained as a computer technician as well. I have several complementary courses in the technology area, you can check them out on my LinkedIn profile. And below you can check out my projects!
 
-Here are some ideas to get you started:
+<a href="https://github.com/JhayneM/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JhayneK&theme=tokyonight&show=include_all_commits&count_private=true&rank_icon=github" />
+</a>
+<a href="https://github.com/JhayneM/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JhayneK&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+My social networks:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/studiogbytes?igshid=OGQ5ZDc2ODk2ZA==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkhenemam/)
+![GitHub followers](https://img.shields.io/github/followers/JhayneK)
+
+
+
+
+
